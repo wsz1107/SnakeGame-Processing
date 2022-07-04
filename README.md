@@ -4,8 +4,12 @@ The final assignment of Computer Programming 2.
 
 ## Manual
 
-↑ - Up
-↓ - Down
-← - Left
-→ - Right
+↑ - Move Up
+
+↓ - Move Down
+
+← - Move Left
+
+→ - Move Right
+
 Any Key - Start a new game 
